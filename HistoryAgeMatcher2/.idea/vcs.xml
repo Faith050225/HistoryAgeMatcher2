@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/History-age-matcher-" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HistoryAgeMatcher2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/IMAD5112" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/history-age-matcher" vcs="Git" />
   </component>
 </project>
